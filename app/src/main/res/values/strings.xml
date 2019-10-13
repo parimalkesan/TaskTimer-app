@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Task Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menumain_showDurations">Durations Report</string>
+    <string name="menumain_settings">Settings</string>
+    <string name="menumain_showAbout">About the TaskTimer</string>
+    <string name="menumain_generate">Generate Data</string>
+    <string name="no_task_message">No Task Selected</string>
+    <string name="addedit_name_hint">Task name required</string>
+    <string name="addedit_desc_hint">Task description(optional)</string>
+    <string name="addedit_sortorder_hint">Orders:sorts low to high</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="R.string.deldiag_postive_message">Delete</string>
+    <string name="deldiag_postive_caption">delete</string>
+    <string name="cancelEditDiag_message">You have unsaved changes,Do you really want to  close it or continue editing?</string>
+    <string name="cancelEditDiag_positive_caption">Continue Editing</string>
+    <string name="cancelEditDiag_negative_caption">Close</string>
+    <string name="about_copyright">Copyright\u00a9 programming academy</string>
+    <string name="about_weblink">Instructions at www.udemy.com</string>
+    <string name="about_email">email at parimalkesan3@gmail.com</string>
+    <string name="about_credits">Icon derived from <b> analog clock</b> at openclipart.org by <b>Anonymous</b></string>
+</resources>
